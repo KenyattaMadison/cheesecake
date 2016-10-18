@@ -12,28 +12,17 @@ body {
     padding: 15px 0;
 }
 
-.navbar-inverse{
-background-color: #069;
-}
 
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
 }
 
 
-.navbar-inverse{
-background-color: #069;
-}
-
 @media(min-width:768px) {
     body {
         padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
     }
     
-    
-.navbar-inverse{
-background-color: #069;
-}
 
     .navbar-fixed-top .navbar-brand {
         padding: 15px 0;
