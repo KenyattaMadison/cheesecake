@@ -16,10 +16,10 @@ body {
 background-color:#069;
 }
 
-/*change the color of font*/
-.navbar-inverse .navbar-nav> li >a{
-color:#f00;
-}    
+/*changes the nav colors*/
+.navbar-inverse .navbar-nav> li > a {color: #f0f; background-color: #fff;
+}
+
 
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
