@@ -12,7 +12,8 @@ body {
     padding: 15px 0;
 }
 
-ul .navbar-inverse .navbar-toggle> li > a {
+}    
+.navbar-inverse .navbar-toggle 
 background-color:#069;
 }
 
