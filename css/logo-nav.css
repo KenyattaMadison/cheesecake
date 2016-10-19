@@ -13,7 +13,7 @@ body {
 }
 
 }    
-.navbar-inverse .navbar-toggle 
+ul .navbar-inverse .navbar-toggle > li > a 
 background-color:#069;
 }
 
