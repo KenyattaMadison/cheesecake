@@ -43,7 +43,7 @@ template {
   display: none;
 }
 a {
-  background-color: #ff8080;
+  background-color: transparent;
 }
 a:active,
 a:hover {
@@ -253,7 +253,7 @@ th {
   }
   .table td,
   .table th {
-    background-color: #e600ac !important;
+    background-color: #fff !important;
   }
   .table-bordered th,
   .table-bordered td {
