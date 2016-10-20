@@ -17,8 +17,8 @@ body {
 background color:#069;
 }
 
-/*changes the nav colors*/
-ul .navbar-inverse .navbar-toggle > li  a{
+/*changes the nav colors*/ 
+.navbar-inverse .navbar-nav > li >a{
     color:#ff66b3;
 }
 
