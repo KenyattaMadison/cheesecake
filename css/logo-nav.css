@@ -15,7 +15,9 @@ body {
 .navbar-fixed-top .navbar-brand {
     padding: 0 15px;
 }
-
+.navbar-inverse{
+    background-color:0f0;
+}
 .navbar-inverse .navbar-nav >li >a{
     color:#ff00ff;
         
