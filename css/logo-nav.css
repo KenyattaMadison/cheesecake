@@ -16,10 +16,10 @@ body {
     padding: 0 15px;
 }
 .navbar-inverse{
-    background-color:0f0;
+    background-color:ff66cc;
 }
 .navbar-inverse .navbar-nav >li >a{
-    color:#ff00ff;
+    color:#ffffff;
         
 }
 @media(min-width:768px) {
