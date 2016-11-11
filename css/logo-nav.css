@@ -29,7 +29,7 @@ body {
 }
 .navbar-inverse .navbar-nav > .active > a {
     color:#ffccff;
-    background-color: #f00
+    background-color: #f00;
 }
 
 .carousel-inner > .item > img,
