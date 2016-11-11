@@ -12,15 +12,24 @@ body {
     padding: 15px 0;
 }
 
-.navbar-fixed-top .navbar-brand {
-    padding: 0 15px;
-}
+/*changed the background color*/
 .navbar-inverse{
-    background-color:ff66cc;
+    background-color:#ff66cc;
 }
-.navbar-inverse .navbar-nav >li >a{
-    color:#ff00ff;
-        
+.btn{
+    background-color:#ccc;
+    color:#fff;
+}
+.navbar-inverse .navbar-nav > li > a{
+    color:#fff;
+}
+.navbar-inverse .navbar-nav >li > a: hover{
+    background-color:#aaa;
+    color:#ffccff;
+}
+.navbar-inverse .navbar-nav > .active > a {
+    color:#ffccff;
+    background-color: #f00
 }
 @media(min-width:768px) {
     body {
