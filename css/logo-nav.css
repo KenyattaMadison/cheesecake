@@ -27,7 +27,7 @@ body {
     background-color:#aaa;
     color:#ffccff;
 }
-.navbar-inverse .navbar-nav > .active > a {
+.navbar-inverse .navbar-nav > li > a: active{
     color:#ffccff;
     background-color: #f00;
 }
