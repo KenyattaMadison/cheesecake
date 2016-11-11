@@ -31,6 +31,27 @@ body {
     color:#ffccff;
     background-color: #f00
 }
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+       width: 70%;
+       margin: auto;
+}
+ /* google font*/ 
+{
+    font-family: 'Yellowtail', cursive;
+    text-shadow: 4px 4px 4px #f00;
+}
+
+.gallery{ 
+    float:left;
+    margin:10px;
+    padding:5px;
+    width:305px;
+    height:250px;
+    border: 2px solid #069;
+}
+
 @media(min-width:768px) {
     body {
         padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
